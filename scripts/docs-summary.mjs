@@ -3,6 +3,7 @@ const summary = {
   "repoName": "gutu-lib-telemetry-ui",
   "packageId": "telemetry-ui",
   "displayName": "Telemetry UI",
+  "packageCount": 1,
   "group": "Core Data And Query",
   "maturity": "Baseline",
   "description": "UI telemetry helpers for page views, actions, widgets, and command palette flows.",

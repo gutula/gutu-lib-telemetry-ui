@@ -35,6 +35,7 @@ Provides UI-facing telemetry helpers that let front-end surfaces emit and render
 | Package ID | `telemetry-ui` |
 | Display Name | Telemetry UI |
 | Import Name | `@platform/telemetry-ui` |
+| Canonical Namespace Target | `@gutu/telemetry-ui` |
 | Version | `0.1.0` |
 | UI Surface | Headless typed exports |
 | Consumption Model | Imports + typed helpers |
@@ -48,6 +49,7 @@ Provides UI-facing telemetry helpers that let front-end surfaces emit and render
 | Dev Dependencies | None |
 | React Runtime | No |
 | Workspace Scoped | Yes |
+| Legacy Compatibility IDs | `@platform/telemetry-ui` |
 
 ### Dependency interpretation
 
